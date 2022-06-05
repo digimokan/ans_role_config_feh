@@ -1,0 +1,3 @@
+- name: "Install feh"
+  ansible.builtin.include_tasks: install/main.yml
+

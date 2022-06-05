@@ -1,0 +1,3 @@
+# display-as-wallpaper command, which runs on image-filepath arg
+feh_display_wallpaper_cmd: 'feh --no-fehbg --bg-scale'
+

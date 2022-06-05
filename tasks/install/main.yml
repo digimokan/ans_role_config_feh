@@ -1,0 +1,7 @@
+- name: "Install the 'feh' package"
+  ansible.builtin.package:
+    name: feh
+    state: present
+  become: true
+  become_user: root
+
