@@ -54,7 +54,7 @@ Install and configure the feh image viewer utility.
        - name: "Install and configure the feh image viewer utility"
          ansible.builtin.include_role:
            name: ans_role_config_feh
-           public: yes
+           public: true
    ```
 
 ## Role Options
